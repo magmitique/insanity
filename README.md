@@ -1,0 +1,2 @@
+# insanity
+FiveM Mod
