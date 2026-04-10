@@ -1,2 +1,2 @@
 # insanity
-FiveM Mod
+FiveM Mod for Money and XP system based on NPC kills
